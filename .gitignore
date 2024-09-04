@@ -1,0 +1,4 @@
+docker/mysql/data/auto.cnf
+docker/mysql/data/binlog.000008
+docker/mysql/data/binlog.000009
+docker/mysql/data
